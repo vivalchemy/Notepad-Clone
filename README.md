@@ -7,7 +7,7 @@
 Clone this repo using `git clone https://github.com/vivalchemy/Notepad-Clone.git`
 
 >Step 2:
-Open the project in your preferred IDE
+cd into the project
 
 > Step 3:
 Run the project in your IDE or build it in the terminal using
